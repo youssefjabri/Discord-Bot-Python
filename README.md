@@ -1,17 +1,16 @@
+<img width=400 src="https://github.com/user-attachments/assets/a971b5e9-8f76-41c4-bcfe-a54d5d81cc0f" align="right"/>
+
 # Discord Bot README
 
 ## Overview
-
 This repository contains a simple Discord bot written in Python. The bot listens for messages in a Discord server and responds based on predefined responses. It can also handle private messages.
 
 ## Features
-
 - Responds to user messages with predefined replies.
 - Can distinguish between public and private messages.
 - Simple command set including greeting, providing sample Python code, and rolling a dice.
 
 ## Prerequisites
-
 - Python 3.12.4 .
 - A Discord account & a bot token.
 
